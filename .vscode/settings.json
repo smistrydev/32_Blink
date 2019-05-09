@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/sanjaymistry/.platformio/penv/bin:/Users/sanjaymistry/.platformio/penv:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/sbin:/Users/smistry/Source/packer:/Users/smistry/java/apache/apache-ant-1.8.2/bin:/Users/smistry/android-sdk-macosx/tools:/Users/smistry/android-sdk-macosx/platform-tools:/Users/smistry/android-sdk-macosx:/Users/smistry/cocos2d-x-3.3/templates:/Users/smistry/cocos2d-x-3.3:/Users/smistry/cocos2d-x-3.3/tools/cocos2d-console/bin:/usr/local/bin:/Users/sanjaymistry/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/sanjaymistry/maven/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
